@@ -49,8 +49,9 @@ main {
 
 .weather-app-city {
   margin: 0;
-  font-size: 56px;
+  font-size: 58px;
   line-height: 48px;
+  font-weight: 500;
 }
 
 .weather-app-details {
@@ -65,11 +66,10 @@ main {
 
 .weather-app-temp {
   display: flex;
-  padding: 20px;
+  padding: 15px;
 }
 .weather-app-temp-value {
   font-size: 88px;
-  line-height: 88px;
   font-weight: bold;
 }
 .weather-app-temp-icon {
